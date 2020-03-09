@@ -18,6 +18,7 @@ Widgets have the following attributes:
 
 Widgets is provideing a Draw() method which can handle how a particular widget renders itself. 
 
+
 Shapes
 
 The application provides the following shapes derived from widgets described above:
@@ -63,6 +64,7 @@ Ellipse
 
 
 Text Box
+
 •	Derives from rectangle.
 
 •	Has a background colour.
