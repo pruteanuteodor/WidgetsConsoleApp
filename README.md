@@ -84,4 +84,4 @@ The application provides a Canvas for displaying the rendered content of widgets
 •	Ability to print to the console the rendered output of each widget added to the canvas.
 
 
-As this is a simple Console Application, you are not expected to render any graphical output or write code to actually draw the widgets.
+As a simple Console Application, this doesn't render any graphical output or write code to actually draw the widgets, but displaying only a text with the values for the widgets.
