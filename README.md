@@ -1,5 +1,4 @@
 # WidgetsConsoleApp
-C# Console Application for a simple drawing app
 
 This is a C# Console Application for a simple drawing app that renders different shapes known as widgets on a canvas. The system comprise of different widgets, each able to render their unique features.
 
